@@ -1,0 +1,366 @@
+2020-Feb-07 16:59:34  INFO Main - Starting application!
+2020-Feb-07 16:59:34  INFO FileLoader - Numbers of files loaded: 0
+2020-Feb-07 16:59:34  INFO Main - All the threads are completed!
+2020-Feb-07 16:59:34  INFO DatabaseConnection - Connected to database
+2020-Feb-07 16:59:34  INFO DatabaseConnection - Records retrieved from database: 1536
+2020-Feb-07 16:59:34  INFO ServerConnection - Server starting on port: 8000
+2020-Feb-07 17:00:11  INFO Main - Starting application!
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of files loaded: 108
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11  INFO FileLoader - Reading files from folder
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 2.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 2.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 2.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy 2.csv successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy 2.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 3.csv successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 3
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 3.json successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6 copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3copy copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5copy copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 2.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTAcopy.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA3 copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4copy copy 2.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy 3.xml successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA2copy copy 3.xml successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA6copy.json successfully moved
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA4 copy.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11 DEBUG FileLoader - File QUOTA5 copy 3.json successfully moved
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11  INFO FileLoader - Numbers of records loaded from file: 2
+2020-Feb-07 17:00:11  INFO Main - All the threads are completed!
+2020-Feb-07 17:00:12  INFO DatabaseConnection - Connected to database
+2020-Feb-07 17:00:12  INFO DatabaseConnection - Records retrieved from database: 1792
+2020-Feb-07 17:00:12  INFO ServerConnection - Server starting on port: 8000
+2020-Feb-07 17:00:18 DEBUG ServerConnection - Query parameters - round: 1 host:  guest: 
+2020-Feb-07 17:00:18 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:18 DEBUG ServerConnection - Flushed successfully!
+2020-Feb-07 17:00:21 DEBUG ServerConnection - Query parameters - round: 2 host:  guest: 
+2020-Feb-07 17:00:21 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:21 DEBUG ServerConnection - Flushed successfully!
+2020-Feb-07 17:00:29 DEBUG ServerConnection - Query parameters - round:  host:  guest: 
+2020-Feb-07 17:00:29 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:29 DEBUG ServerConnection - Flushed successfully!
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:40 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:42 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Query parameters - round: 2 host: PAR guest: CZV
+2020-Feb-07 17:00:47 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:52 DEBUG ServerConnection - Query parameters - round: 1 host: PAR guest: CZV
+2020-Feb-07 17:00:52 DEBUG ServerConnection - Building Json
+2020-Feb-07 17:00:52 DEBUG ServerConnection - Flushed successfully!

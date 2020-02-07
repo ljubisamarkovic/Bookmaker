@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Bookmaker>
+    <bookmaker bookmakerId="6">
+        <round>1</round>
+        <homeTeam>RMD</homeTeam>
+        <awayTeam>MAN</awayTeam>
+        <homeWinQuota>1.95</homeWinQuota>
+        <awayWinQuota>3.15</awayWinQuota>
+        <tieQuota>2.25</tieQuota>
+    </bookmaker>
+    <bookmaker bookmakerId="7">
+         <round>2</round>
+         <homeTeam>CUK</homeTeam>
+         <awayTeam>LIS</awayTeam>
+         <homeWinQuota>4.95</homeWinQuota>
+         <awayWinQuota>2.15</awayWinQuota>
+         <tieQuota>2.75</tieQuota>
+     </bookmaker>
+</Bookmaker>
