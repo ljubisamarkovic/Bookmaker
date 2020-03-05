@@ -1,0 +1,22 @@
+{
+    "Bookmaker": [
+        {
+            "bookmakerId": "1",
+            "round": "1",
+            "homeTeam": "AAA",
+            "awayTeam": "BBB",
+            "homeWinQuota": "2.95",
+            "awayWinQuota": "2.95",
+            "tieQuota": "2.95"
+        },
+        {
+            "bookmakerId": "2",
+            "round": "2",
+            "homeTeam": "CCC",
+            "awayTeam": "DDD",
+            "homeWinQuota": "3.44",
+            "awayWinQuota": "3.44",
+            "tieQuota": "3.44"
+        }
+    ]
+}
